@@ -28,7 +28,7 @@ thanks for :
 1. My Beloved Friend to give me some suggestion for fixing bug 
 2. 9cv9 Pte Ltd -Special Thanks For All of the team dev-
 3. Surabaya Hacker Link -Special Thanks for all staff, advisor and member-
-4. All Cyber Security Community from Indonesia
-5. KKN Back To Isekai CTF Team (Hightech, awnd, sahruldotid), Where always help me for get more stronger and better
+4. KKN Back To Isekai CTF Team (Hightech, awnd, sahruldotid), Where always help me for get more stronger and better
+5. All Cyber Security Community from Indonesia
 6. My Waifu :p (Asuna, Sinon, Alice, Kurumi, Takagi, Nakano Miku, Raphtalia, Filo, Hirasawa Yui, Akiyama Mio, Tainaka Ritsu, Saber, Tohsaka Rin)
 7. And You :*
