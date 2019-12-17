@@ -23,6 +23,15 @@ To Do ?
 3. another bug like format string
 4. launch on pypi
 ---
+Notes: 
+
+if you like this project or want to contribute or donate or ask about this project, please pm me at
+telegram : @fake_santriwati
+
+very open source , you can contribute or give me some suggestion with create some pull request and i'll give you some stuff (if available :'v)
+
+
+---
 
 thanks for :
 1. My Beloved Friend to give me some suggestion for fixing bug 
